@@ -2,24 +2,22 @@
   <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f8029705324f227a7a091a3db5/GitHub-name.gif" width="100%" alt="Banner" />
 </div>
 
-# <div align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"> Gourav Dash</div>
-
+<!-- Meta Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0C6BF0&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Competitive+Programmer;Problem+Solver;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6842C2&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Gourav+Dash;Full+Stack+Developer;Competitive+Programmer;Building+Solutions+That+Matter" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Coding gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" alt="Coding gif" />
 </div>
 
 <div align="center">
   <a href="https://web-port-folio-chi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
   <a href="mailto:gaurav.dash05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=gariffon&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=gariffon&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gariffon&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gariffon&theme=tokyonight&hide_border=true&border_radius=10" height="150" alt="Streak Stats" />
@@ -35,7 +33,6 @@
 - ⚡ **Fun Fact:** I believe you are the best version of yourself right now.
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack
-
 <div align="center">
   <table>
     <tr>
@@ -79,31 +76,38 @@
   </table>
 </div>
 
-<!-- Activity Graph -->
+<!-- Activity Graph with reduced margin -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gariffon&theme=react-dark&hide_border=true" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> Competitive Programming 
 <div align="center">
-  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/gariffon05)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gourav_dash)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=d16c06)](https://www.leetcode.com/gariffon05)
+  <div style="display: flex; justify-content: center; gap: 15px;">
+    <a href="https://www.codechef.com/users/gariffon05">
+      <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+    </a>
+    <a href="https://codeforces.com/profile/gourav_dash">
+      <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+    </a>
+    <a href="https://www.leetcode.com/gariffon05">
+      <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    </a>
+  </div>
 </div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/gourav-dash-gariffon">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/gariffondash">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://discord.gg/gariffon">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+  <div style="display: flex; justify-content: center; gap: 15px;">
+    <a href="https://linkedin.com/in/gourav-dash-gariffon">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://twitter.com/gariffondash">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://discord.gg/gariffon">
+      <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+  </div>
 </div>
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
