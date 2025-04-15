@@ -20,11 +20,11 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gariffon&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gariffon&theme=tokyonight&hide_border=true&border_radius=10" height="150" alt="Streak Stats" />
-</div>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gariffon&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&border_radius=10" alt="Top Languages" />
 </div>
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gariffon&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&border_radius=10" alt="Top Languages" />
+</div> -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> About Me
 - 👨‍💻 **Portfolio:** [web-port-folio-chi.vercel.app/](https://web-port-folio-chi.vercel.app/)
