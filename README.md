@@ -77,7 +77,7 @@
 </div>
 
 <!-- Activity Graph with reduced margin -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gariffon&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gariffon&theme=react-dark&hide_border=true&cache_seconds=86400" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> Competitive Programming 
 <div align="center">
