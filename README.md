@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f8029705324f227a7a091a3db5/GitHub-name.gif" width="100%" alt="Banner" />
-</div>
-
 <!-- Meta Header -->
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6842C2&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Gourav+Dash;Full+Stack+Developer;Competitive+Programmer;Building+Solutions+That+Matter" alt="Typing SVG" /></a>
